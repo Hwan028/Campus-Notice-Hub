@@ -3,7 +3,7 @@
 ## 1. 기본 정보
 * **프로젝트명:** 캠퍼스 알리미 (Campus-Notice Hub)
 * **개발 분야:** Backend API Server & Cross-Platform Mobile Client
-* **목표 일정:** 이번학기
+* **목표 일정:** ~ 2026.12.09
 * **기술 스택:**
   * **Backend:** Java 17, Spring Boot 3.2.x, Spring Data JPA
   * **Database:** MariaDB 10.11 LTS
