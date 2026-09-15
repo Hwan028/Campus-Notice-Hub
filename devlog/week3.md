@@ -15,9 +15,9 @@
 순수 Java + Jsoup으로 실제 게시판 목록 페이지를 파싱해 게시글 개수/제목/링크가 정상적으로 추출되는지 테스트
 
 ### 결과
-<a href="/bbs/cs/104/110401/artclView.do">` 형태로 실제 URL이 href에 직접 노출되어 있어 바로 사용 가능
+`<a href="/bbs/cs/104/110401/artclView.do">` 형태로 실제 URL이 href에 직접 노출되어 있어 바로 사용 가능
 
-![crawl Test](../images/crawlTest..png)
+![crawl Test](../images/crawlTest.png)
 
 ---
 
