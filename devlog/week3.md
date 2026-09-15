@@ -16,7 +16,8 @@
 
 ### 결과
 <a href="/bbs/cs/104/110401/artclView.do">` 형태로 실제 URL이 href에 직접 노출되어 있어 바로 사용 가능
-![crawl Test](../images/crawlTest)
+
+![crawl Test](../images/crawlTest..png)
 
 ---
 
@@ -35,6 +36,7 @@
 | device_keyword | 사용자(Device)와 구독 키워드 간의 N:M 관계 테이블 |
 | notice_keyword | 크롤링 시점에 공지글과 프리셋 키워드를 미리 매칭해 둔 성능 향상용 캐시 테이블 |
 | push_log | FCM 푸시 알림 발송 이력 및 중복 발송 방지용 매핑 테이블 |
+
 ![DB ERD](../images/dbERD.png)
 
 ---
