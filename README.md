@@ -5,9 +5,9 @@
 * **개발 분야:** Backend API Server & Cross-Platform Mobile Client
 * **목표 일정:** ~ 2026.12.09
 * **기술 스택:**
-  * **Backend:** Java 17, Spring Boot 3.2.x, Spring Data JPA
+  * **Backend:** Java 17, Spring Boot 3.2.5, Spring Data JPA
   * **Database:** MariaDB 10.11 LTS
-  * **Web / Crawler:** Spring Web, Jsoup Library 1.17.x
+  * **Web / Crawler:** Spring Web, Jsoup Library 1.17.2
   * **Frontend:** Flutter (Dart), //Riverpod, Dio, Freezed, Hive
   * **API Docs:** Swagger (Springdoc-OpenAPI v2.3.0)
 
