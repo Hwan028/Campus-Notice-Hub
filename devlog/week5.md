@@ -81,8 +81,6 @@ links extracted: 10
 2. extraction_rate 계산 및 급락 판단 로직 구현 (임계치는 데이터 축적 후 확정)
 3. Spring Boot Actuator 커스텀 HealthIndicator로 `/actuator/health`에 상태 노출
 4. 이상 감지 시 Discord 웹훅으로 알림 발송 (게시판명, 직전 extraction_rate, 마지막 성공 시각 포함)
-5. 파서 스냅샷 테스트(저장된 HTML로 파싱 로직 검증) — 단, 이건 실시간 사이트 변경 감지가 아니라 **제가 코드 수정 중 실수로 기존 게시판을 망가뜨리는 걸 막는 회귀 테스트** 용도임을 구분해서 인지하고 있음
-6. `board_crawl_config`(설정 기반 파서 관리) 구조와 연결해, 게시판 1개 추가 시 코드 수정 없이 설정 추가만으로 끝나는 것이 최종 목표
 
 
 ---
